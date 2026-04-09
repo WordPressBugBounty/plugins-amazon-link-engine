@@ -2,8 +2,8 @@
 Contributors: GeoRiot
 Tags: amazon, associates, affiliate, universal, localize, link, engine, monetization, globalize, geniuslink, ale, javascript 
 Requires at least: 2.7
-Tested up to: 6.5
-Stable tag: 1.4.1
+Tested up to: 7.0
+Stable tag: 1.4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
