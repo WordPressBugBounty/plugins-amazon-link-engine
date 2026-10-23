@@ -195,6 +195,9 @@ The Amazon Publisher Studio tool is unfortunately not compatible with this versi
 
 
 == Changelog ==
+= 1.4.2 =
+* Updated tested value
+
 = 1.4.1 =
 * Update tested value
 
